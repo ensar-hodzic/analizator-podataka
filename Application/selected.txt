@@ -1,0 +1,2 @@
+telefon
+broj_prodanih

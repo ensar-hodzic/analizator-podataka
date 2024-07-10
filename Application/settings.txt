@@ -1,0 +1,8 @@
+black
+white
+white
+
+
+
+bright
+0

@@ -1,0 +1,8 @@
+black
+white
+white
+Datum
+Cijena
+Cijena Netflixovih Dionica
+muted
+25
